@@ -1,5 +1,12 @@
 # sarcastic-speech-detection
-Natural processing language task for sarcastic speech detection using Python.
+Natural processing language task for sarcastic speech detection using 
+Python. 
+
+## Installing requirements
+
+```bash
+pip install -r requirements.txt
+```
 
 ### References
 
