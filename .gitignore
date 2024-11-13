@@ -3,3 +3,5 @@
 
 # Ignore all .json files in the main folder.
 *.json
+
+.ipynb_checkpoints

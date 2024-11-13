@@ -6,3 +6,4 @@ scipy
 nltk
 gensim
 scikit-learn
+wordcloud
