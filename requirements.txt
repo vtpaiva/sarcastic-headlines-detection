@@ -7,3 +7,5 @@ nltk
 gensim
 scikit-learn
 wordcloud
+tensorflow
+scikeras
