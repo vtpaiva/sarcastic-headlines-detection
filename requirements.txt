@@ -10,3 +10,4 @@ wordcloud
 tensorflow
 scikeras
 statsmodels
+scikit_posthocs
