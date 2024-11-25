@@ -5,3 +5,5 @@
 *.json
 
 .ipynb_checkpoints
+
+notebooks/.ipynb_checkpoints
