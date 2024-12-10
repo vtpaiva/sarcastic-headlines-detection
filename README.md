@@ -4,14 +4,6 @@ This project focuses on using **Natural Language Processing (NLP)** techniques t
 
 ---
 
-## Members
-
-* Lucas Corlete Alves de Melo - **13676461**
-* Marcus Vinicius da Silva - **13833150**
-* Vítor Augusto Paiva de Brito - **13732303**
-
----
-
 ## Installing requirements
 
 In order to be able to run the *Jupyter* notebooks to enhance the code **reproducibility**, it is necessary to install the requirements.
