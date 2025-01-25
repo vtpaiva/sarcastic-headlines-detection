@@ -42,3 +42,11 @@ This project highlights the versatility of NLP techniques by contrasting traditi
 ### References
 
 https://thecleverprogrammer.com/2021/08/24/sarcasm-detection-with-machine-learning/
+
+🤖 <a href="https://scikit-learn.org/1.5/user_guide.html">Scikit-learn Documentation</a>
+
+🐼 <a href="https://pandas.pydata.org/docs/user_guide/index.html">Pandas Documentation</a>
+
+🌊 <a href="https://seaborn.pydata.org/tutorial.html">Seaborn Documentation</a>
+
+🖼️ <a href="https://matplotlib.org/stable/users/index">Matplotlib Documentation</a>
